@@ -40,7 +40,18 @@ Finalizado en su primero versión 1.0.0
 Le principales funcionalidades del proyecto son las de su respectivos registraos tanto de huéspedes como de reservas y con sus respectivos método de obtención de listas de huéspedes o reservas o obtención por Id, también cuenta con la posibilidad de poder actualizar su reserva o los datos del huésped y por ultimo su opción de eliminar.
 
 ## Acceso al proyecto
-Si deseas poner a prueba mi proyecto solo descárgalo o clonándolo  del repositorio, para su ejecución se requiere que instales el WorkBench de MySQL e instales XAMPP para que active el servicio local de MySQL ya con esto realizado solo te queda ejecutar en tu IDE preferido el proyecto y probarlo ya sea desde postman o ejecutando el proyecto Front que está en el repositorio Angular
+Si deseas poner a prueba mi proyecto solo descárgalo o clonándolo  del repositorio, para su ejecución se requiere que instales el WorkBench de MySQL e instales XAMPP para que active el servicio local de MySQL ya con esto realizado solo te queda ejecutar en tu IDE preferido el proyecto y probarlo ya sea desde postman o ejecutando el proyecto Front que está en el repositorio https://github.com/aristobulo99/Challenge-ONE-Hotel-Alura-Forn-end
+
+## Tecnologías utilizadas
+* Java
+* Spring Boot
+* Mysql
+* XAMPP
+* Angular 15
+
+
+
+
 
 
 
