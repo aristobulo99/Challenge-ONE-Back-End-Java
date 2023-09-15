@@ -42,6 +42,12 @@ Le principales funcionalidades del proyecto son las de su respectivos registraos
 ## Acceso al proyecto
 Si deseas poner a prueba mi proyecto solo descárgalo o clonándolo  del repositorio, para su ejecución se requiere que instales el WorkBench de MySQL e instales XAMPP para que active el servicio local de MySQL ya con esto realizado solo te queda ejecutar en tu IDE preferido el proyecto y probarlo ya sea desde postman o ejecutando el proyecto Front que está en el repositorio https://github.com/aristobulo99/Challenge-ONE-Hotel-Alura-Forn-end
 
+Si descargaste el proyecto Fornt-End en angular para ejecutarlo debes de instalar lo siguiente:
+Node.js y npm (Node Package Manager): Angular se basa en Node.js para su gestión de paquetes y otras tareas de desarrollo. Puedes descargar Node.js desde el sitio web oficial (https://nodejs.org/). Al instalar Node.js, npm se instalará automáticamente.
+
+Angular CLI (Command Line Interface): El Angular CLI es una herramienta que facilita la creación, el desarrollo y la administración de proyectos Angular. Puedes instalarlo globalmente utilizando npm con el siguiente comando: npm install -g @angular/cli. y listo ingresas el proyecto y ejecutas el comando ng serve
+
+
 ## Tecnologías utilizadas
 * Java
 * Spring Boot
