@@ -49,7 +49,14 @@ Si deseas poner a prueba mi proyecto solo descárgalo o clonándolo  del reposit
 * XAMPP
 * Angular 15
 
+## Personas-Contribuyentes
+@Ellen Prado Pimentel
+@Génesys Rondón
+@Eric Monné
 
+## Personas-desarolladoras-del-proyecto
+| [<img src="https://avatars.githubusercontent.com/u/64171570?v=4" width=115><br><sub>Aristobulo Briceño De La Espriella</sub>](https://github.com/aristobulo99) |
+| :---: |
 
 
 
